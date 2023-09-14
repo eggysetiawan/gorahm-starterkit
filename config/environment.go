@@ -1,7 +1,7 @@
 package config
 
 import (
-	"github.com/eggysetiawan/go-email-blast/logger"
+	"github.com/eggysetiawan/gorahm-starterkit/logger"
 	"github.com/joho/godotenv"
 )
 

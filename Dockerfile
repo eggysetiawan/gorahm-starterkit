@@ -15,4 +15,6 @@ RUN go mod tidy
 
 # ENTRYPOINT ["/app/main"]
 EXPOSE 3001
+
+# CMD ["watch","-n","60","ls", "-a"]
 CMD ["go","run","main.go"]
