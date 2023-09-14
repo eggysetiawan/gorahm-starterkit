@@ -1,0 +1,6 @@
+/tmp
+/storage/*
+.env
+main.exe
+main
+storage/*
